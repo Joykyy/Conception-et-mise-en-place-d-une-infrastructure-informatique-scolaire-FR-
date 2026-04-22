@@ -15,7 +15,7 @@
 - **Serveur DNS :**  192.168.85.3
 
 ### Capture d’écran – Résultat de `ipconfig /all`
-![ipconfig](Annotation_2026-02-26_071003.png)
+![ipconfig](IMG_0002.png)
 ---
 
 ## Partitionnement du disque
