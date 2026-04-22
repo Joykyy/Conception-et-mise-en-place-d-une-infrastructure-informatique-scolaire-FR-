@@ -72,7 +72,7 @@ Restauration sur machine vierge
 Insérez une capture d'écran (photo) pendant la capture de l'image de la partition C:.
 ```
 Capture de la capture backup
-![Capture](IMG_4899.jpeg)
+![Capture](IMG_0006.jpeg)
 Capture de la restauration
 
-![Capture2](IMG_4902.jpeg)
+![Capture2](IMG_0007.jpeg)
