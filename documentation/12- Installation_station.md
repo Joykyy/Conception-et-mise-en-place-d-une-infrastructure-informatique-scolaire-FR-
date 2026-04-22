@@ -27,7 +27,7 @@
   - Utilisation : Données de sauvegarde  
 
 ### Capture d’écran – Lecteurs C: et D:
-![ipconfig](Annotation_2026-02-26_071104.png)
+![ipconfig](IMG_0003.png)
 
 ---
 
@@ -44,7 +44,7 @@
 - **Statut :** Tous les pilotes sont installés correctement (aucun périphérique non reconnu)
 
 ### Capture d’écran – Gestionnaire de périphériques
-![alt text](pilotes.png)
+![alt text](IMG_0004.png)
 
 
 ---
@@ -59,4 +59,4 @@
 
 - **Chrome**  
   - Objectif : Navigation web
- ![alt text](Capture_Outis.png) 
+ ![alt text](IMG_0005.png) 
