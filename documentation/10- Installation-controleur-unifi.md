@@ -13,4 +13,4 @@
 curl -sO https://get.glennr.nl/unifi/install/unifi-os-server-4.3.6.sh && bash unifi-os-server-4.3.6.sh
 ```
 
-![alt text](images/10.png)
+![alt text](IMG_0001.png)
