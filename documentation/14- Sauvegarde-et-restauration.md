@@ -26,7 +26,7 @@ L’outil choisi doit être adapté à votre infrastructure (ex : VEEAM, Proxmox
 
 Politique retention 14 jours
 
-![alt text](image.png)
+![alt text](image-0.png)
 
 Politique de JOB
 
